@@ -1,12 +1,8 @@
-<div align="center">
-
-![Capsule Header](https://capsule-render.vercel.app/api?type=vape&color=0:ff006e,100:8338ec&height=320&section=header&text=JAAYDEEP%20PRAJAPATI&fontSize=85&fontColor=ffffff&animation=fadeIn&fontWeight=900&fontAlignY=55)
-
-</div>
+![](https://capsule-render.vercel.app/api?type=vape&color=0:ff006e,100:8338ec&height=350&section=header&text=JAAYDEEP%20PRAJAPATI&fontSize=85&fontColor=ffffff&animation=fadeIn&fontWeight=900&fontAlignY=55)
 
 <div align="center">
 
-# 🌌 **Architecting Intelligence**
+# 🌌 **ARCHITECTING INTELLIGENCE**
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=26&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=120&lines=AI+Engineer+%26+Deep+Learning+Architect;Building+Neural+Systems+at+Scale;Computer+Vision+%7C+Production+ML+%7C+Cloud;Transforming+Ideas+into+Intelligent+Reality" alt="Typing SVG" />
@@ -109,7 +105,6 @@ Specializing in **Computer Vision**, **Deep Learning Pipelines**, and **Enterpri
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![OpenCV](https://skillicons.dev/icons?i=opencv)
-![CUDA](https://img.shields.io/badge/CUDA-Enabled-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![AWS](https://skillicons.dev/icons?i=aws)
 
@@ -131,7 +126,6 @@ Specializing in **Computer Vision**, **Deep Learning Pipelines**, and **Enterpri
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
-![SQL](https://img.shields.io/badge/SQL-Advanced-336791?style=flat-square&logo=database&logoColor=white)
 
 ### 🚀 **Backend & APIs**
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
@@ -143,18 +137,15 @@ Specializing in **Computer Vision**, **Deep Learning Pipelines**, and **Enterpri
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![OpenCV](https://skillicons.dev/icons?i=opencv)
-![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-Advanced-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ### 🎨 **Frontend Stack**
 ![React](https://skillicons.dev/icons?i=react)
 ![Vue.js](https://skillicons.dev/icons?i=vue)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![D3.js](https://img.shields.io/badge/D3.js-Data%20Viz-F9A825?style=flat-square&logo=d3.js&logoColor=white)
 
 ### ☁️ **Cloud & DevOps**
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Docker](https://skillicons.dev/icons?i=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Redis](https://skillicons.dev/icons?i=redis)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
@@ -163,7 +154,6 @@ Specializing in **Computer Vision**, **Deep Learning Pipelines**, and **Enterpri
 ![Git](https://skillicons.dev/icons?i=git)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Jupyter](https://skillicons.dev/icons?i=jupyter)
-![Figma](https://skillicons.dev/icons?i=figma)
 ![Linux](https://skillicons.dev/icons?i=linux)
 
 </div>
@@ -180,11 +170,11 @@ Specializing in **Computer Vision**, **Deep Learning Pipelines**, and **Enterpri
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaaydeep&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&text_color=e0e7ff&title_color=00d9ff&icon_color=00d9ff&border_radius=20&card_width=500&hide=contribs&custom_title=📈%20GitHub%20Analytics)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaaydeep&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&text_color=e0e7ff&title_color=00d9ff&icon_color=00d9ff&border_radius=20&card_width=500&hide=contribs)
 
 ![Streak Stats](https://streak-stats.demolab.com?user=jaaydeep&theme=nightowl&hide_border=true&background=0d1117&ring=00d9ff&currStreakNum=e0e7ff&fire=FF006E&dates=8338EC&border_radius=20)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaaydeep&layout=donut-vertical&theme=nightowl&hide_border=true&bg_color=0d1117&text_color=e0e7ff&title_color=00d9ff&border_radius=20&card_width=500&custom_title=🔬%20Language%20Proficiency)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaaydeep&layout=donut-vertical&theme=nightowl&hide_border=true&bg_color=0d1117&text_color=e0e7ff&title_color=00d9ff&border_radius=20&card_width=500)
 
 </div>
 
@@ -231,7 +221,7 @@ Specializing in **Computer Vision**, **Deep Learning Pipelines**, and **Enterpri
 │  └─ Real-time visualization system
 │     • 1000+ concurrent users
 │     • WebSocket streaming
-│     • D3.js advanced charts
+│     • Advanced charting
 │
 ├─ MICROSERVICES FRAMEWORK
 │  └─ Production-grade FastAPI kit
@@ -241,7 +231,7 @@ Specializing in **Computer Vision**, **Deep Learning Pipelines**, and **Enterpri
 │
 └─ API GATEWAY ORCHESTRATION
    └─ Enterprise request routing
-      • Rate limiting (100k RPS)
+      • Rate limiting
       • Load balancing
       • Kubernetes-ready
 ```
@@ -343,9 +333,9 @@ I thrive when solving:
 
 <div align="center">
 
-### 📬 **Connect With Me**
+### 📬 **CONNECT WITH ME**
 
-[![Email Me](https://img.shields.io/badge/✉️%20Email-jaaydeep.prajapati%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaaydeep.prajapati@gmail.com)
+[![Email](https://img.shields.io/badge/✉️%20Email-jaaydeep.prajapati%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaaydeep.prajapati@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Jaaydeep%20Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaaydeep-prajapati)
 
@@ -382,17 +372,17 @@ I thrive when solving:
 
 <br/>
 
+![](https://capsule-render.vercel.app/api?type=waveInverted&color=0:ff006e,100:8338ec&height=200&section=footer&text=Building%20Intelligent%20Systems&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=60)
+
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waveInverted&color=0:ff006e,100:8338ec&height=150&section=footer&text=Building%20Intelligent%20Systems&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=60)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=5000&pause=1000&color=8338EC&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+ML+Architect+%7C+Full+Stack+Developer;%22Every+system+starts+as+an+idea.%22;%22Let%27s+build+something+extraordinary.%22" alt="Footer typing" />
+</a>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=5000&pause=1000&color=8338EC&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+ML+Architect+%7C+Full+Stack+Developer;%22Every+system+starts+as+an+idea.%22;%22Let%27s+build+something+extraordinary.%22" alt="Footer" />
-</p>
+<br/>
 
-<sub>
-  **Jaaydeep Prajapati** — Architecting Intelligence  
-  Last Updated: Q2 2025 | Always Learning. Always Building.
-</sub>
+**Jaaydeep Prajapati** — Architecting Intelligence  
+*Last Updated: Q2 2025 | Always Learning. Always Building.*
 
 </div>
