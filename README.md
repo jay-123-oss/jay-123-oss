@@ -1,24 +1,133 @@
+<h1 align="center">Hi 👋, I'm Jaaydeep Prajapati</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaydeep.prajati_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydeep-prajapati-a97988358/)) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Jaydeep-g7k) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white) ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaydeepprajapati30941@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jay-123-oss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jay-123-oss&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-123-oss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jay-123-oss&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jay-123-oss&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Machine+Learning+Enthusiast;Web+Developer;Creative+Writer;Building+AI+Systems+🚀" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jay-123-oss&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+🎓 B.Tech Computer Science Student  
+💻 Python Developer @ **Web Setu**  
+🧠 Passionate about **AI, Machine Learning & System Design**  
+✍️ Writer who blends **Creativity + Code**
+
+🔥 I believe in:
+> Turning ideas into powerful digital experiences
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaydeep-prajapati-a97988358/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:jaydeepprajapati30941@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://instagram.com/jaydeep.prajati_18"><img src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram"></a>
+  <a href="https://youtube.com/@@Jaydeep-g7k"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"></a>
+</p>
+
+---
+
+## 🧠 Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
+
+### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+
+### ⚙️ Backend & Tools
+<img src="https://skillicons.dev/icons?i=fastapi,docker,aws,git" />
+
+### 🧠 AI / ML / Data Science
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br/>
+<img src="https://img.shields.io/badge/Pandas-Data--Analysis-blue" />
+<img src="https://img.shields.io/badge/NumPy-Numerical--Computing-lightblue" />
+<img src="https://img.shields.io/badge/ScikitLearn-ML-orange" />
+
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 AI Projects
+- 🔹 **Next Word Predictor (RNN Based)**
+- 🔹 Computer Vision Projects
+- 🔹 ML Models with Scikit-learn
+
+### 🌐 Web Projects
+- 🔹 SEO Optimized Websites  
+- 🔹 Responsive Bootstrap Designs  
+- 🔹 FastAPI Backend Systems  
+
+---
+
+## 🧩 Current Focus
+
+🔥 Building: **AI System → "Trinetra"**  
+📚 Learning: **Deep Learning, GenAI, System Design**  
+🎯 Goal: Become **AI Engineer + Tech Innovator**
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jay-123-oss&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay-123-oss&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-123-oss&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 3D Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jay-123-oss&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Achievements & Growth
+
+- 🚀 Active Developer  
+- 📈 Continuous Learning Mindset  
+- ✍️ Tech + Writing Combination  
+- 🤝 Open for Collaboration  
+
+---
+
+## 🌐 Portfolio
+
+👉 https://coruscating-torrone-99f0dfcvjaydeep.netlify.app/
+
+---
+
+## 💬 Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💡 I don’t just write code…  
+I **design experiences + build intelligence** 🤖✨  
+
+---
+
+<p align="center">
+  ⭐ If you like my work, give a star to my repositories!
+</p>
