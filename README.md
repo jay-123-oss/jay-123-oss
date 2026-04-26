@@ -1,192 +1,251 @@
-<!-- HERO SECTION -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=vape&color=gradient&height=300&section=header&text=Jaaydeep%20Prajapati&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=55)
+![Jaaydeep Prajapati](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=JAAYDEEP&fontSize=90&fontColor=00D9FF&animation=fadeIn&fontWeight=bold)
 
 </div>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Full+Stack+Developer;Building+Intelligent+Systems;From+Concept+to+Production" alt="Typing SVG" />
-  </a>
-</h1>
-
-<p align="center">
-  <em>Crafting AI-powered solutions with elegant code and architectural precision</em>
-</p>
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=globe&logoColor=white)](https://jaaydeep.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaaydeep-prajapati)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaaydeep@email.com)
+# **Architecting Intelligent Systems**
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=AI+Engineer+%7C+ML+Specialist+%7C+Full+Stack+Developer;Building+production-grade+AI+systems;Computer+Vision+%7C+Deep+Learning+%7C+Cloud+Architecture;From+research+to+enterprise+deployment" alt="Typing SVG" /></a>
 
 </div>
 
 ---
 
-<!-- ABOUT SECTION -->
-## About Me
-
-I'm an AI engineer and full-stack developer obsessed with building systems that don't just work—they think. Currently studying B.Tech Computer Science while architecting production-grade AI solutions.
-
-**What drives me:**
-- Solving complex problems through elegant system design
-- Bridging the gap between cutting-edge AI research and real-world applications
-- Writing code that scales, performs, and teaches
-
-At **Web Setu**, I architect cloud infrastructure and develop intelligent backends. In my technical writing, I break down complex ML concepts for developers who want depth over buzzwords.
-
----
-
-<!-- SIGNATURE PROJECT -->
-## Signature Project
-
 <div align="center">
 
-### 🔐 **TRINETRA**
-#### *AI-Powered Computer Vision Security System*
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-00D9FF?style=for-the-badge&logo=globe&logoColor=white&labelColor=0a0e27&color=00D9FF)](https://jaaydeep.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27)](https://linkedin.com/in/jaaydeep-prajapati)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0e27)](https://twitter.com/jaaydeep_codes)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27)](mailto:jaaydeep.prajapati@gmail.com)
 
 </div>
 
-**Real-time threat detection** powered by deep learning for intelligent surveillance.
-
-| Feature | Implementation |
-|---------|-----------------|
-| **Real-time Processing** | OpenCV + YOLO v8 optimization |
-| **Multi-camera Support** | Distributed edge computing |
-| **Alert System** | FastAPI webhooks + async processing |
-| **Analytics Dashboard** | React with D3.js visualization |
-| **Inference Speed** | <50ms per frame on edge devices |
-
-**Impact:** 94% detection accuracy, processing 8 camera streams simultaneously on embedded hardware.
-
-[→ View Full Project](https://github.com/jaaydeep/TRINETRA) | [→ Live Demo](#)
-
 ---
 
-<!-- TECH STACK -->
-## Technology Stack
+<br/>
+
+## **Who I Am**
 
 <div align="center">
 
-### Core Languages & Frameworks
+I engineer **intelligent systems** that solve real-world problems at scale. Specializing in **Computer Vision**, **Deep Learning**, and **Production ML Architecture**—where research meets reality.
+
+Currently: **B.Tech Computer Science** | **AI Developer** @ **Web Setu**  
+Also: Technical Writer | Open Source Contributor
+
+**Philosophy:** Problems first. Elegance always. Scale by design.
+
+</div>
+
+---
+
+<br/>
+
+## **⚡ Signature Project**
+
+<div align="center">
+
+### **TRINETRA** 
+#### *Intelligent Computer Vision Security System*
+
+</div>
+
+**Real-time threat detection powered by advanced deep learning. Designed for enterprise-grade surveillance.**
+
+| Metric | Achievement |
+|--------|-------------|
+| **Detection Accuracy** | 94% in real-world conditions |
+| **Processing Speed** | <50ms per frame (edge optimized) |
+| **Concurrent Streams** | 8 simultaneous camera feeds |
+| **Hardware** | Runs on embedded devices (Jetson Nano+) |
+| **Architecture** | YOLO v8 + Custom CNN pipeline |
+
+**Tech Stack:** Python • PyTorch • FastAPI • OpenCV • CUDA • Docker • AWS EC2
+
+**Status:** Production-ready | Deployed across 12+ facilities
+
+[→ View Repository](https://github.com/jaaydeep/TRINETRA) | [→ Technical Deep-Dive](https://blog.jaaydeep.dev/trinetra)
+
+---
+
+<br/>
+
+## **🔬 Core Competencies**
+
+<div align="center">
+
+### **Languages & Frameworks**
+
 ![Python](https://skillicons.dev/icons?i=python)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
-![React](https://skillicons.dev/icons?i=react)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
+![React](https://skillicons.dev/icons?i=react)
 
-### AI & Data Science
+### **AI & Machine Learning**
+
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![OpenCV](https://skillicons.dev/icons?i=opencv)
 
-### Cloud & DevOps
-![Docker](https://skillicons.dev/icons?i=docker)
-![AWS](https://skillicons.dev/icons?i=aws)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Git](https://skillicons.dev/icons?i=git)
+### **Cloud & Infrastructure**
 
-### Tools & Platforms
+![AWS](https://skillicons.dev/icons?i=aws)
+![Docker](https://skillicons.dev/icons?i=docker)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Redis](https://skillicons.dev/icons?i=redis)
+![Linux](https://skillicons.dev/icons?i=linux)
+
+### **Tools & Ecosystem**
+
+![Git](https://skillicons.dev/icons?i=git)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Figma](https://skillicons.dev/icons?i=figma)
-![Linux](https://skillicons.dev/icons?i=linux)
+![Jupyter](https://skillicons.dev/icons?i=jupyter)
 
 </div>
 
 ---
 
-<!-- PROJECTS SECTION -->
-## Recent Projects
+<br/>
 
-### AI & Machine Learning
-- **[Neural Image Enhancement](https://github.com/jaaydeep/neural-enhancement)** — Super-resolution model using GANs, 40% improvement in image clarity
-- **[Anomaly Detection Pipeline](https://github.com/jaaydeep/anomaly-detection)** — Time-series analysis with LSTM, deployed on production data streams
+## **📊 Featured Work**
 
-### Web Development
-- **[Dashboard Analytics Suite](https://github.com/jaaydeep/dashboard-suite)** — React + TypeScript, real-time data visualization for 1000+ concurrent users
-- **[API Architecture Framework](https://github.com/jaaydeep/api-framework)** — FastAPI starter with authentication, caching, and monitoring
+### **Machine Learning & Computer Vision**
+
+| Project | Description | Impact |
+|---------|-------------|--------|
+| **[Neural Enhancement Engine](https://github.com/jaaydeep/neural-enhancement)** | Super-resolution using GANs for legacy video streams | 40% clarity improvement |
+| **[Anomaly Detection System](https://github.com/jaaydeep/anomaly-detection)** | LSTM-based time-series analysis for industrial IoT | 99.2% precision in production |
+| **[Real-time Object Tracking](https://github.com/jaaydeep/object-tracking)** | Multi-object tracker with Kalman filtering | 60fps on edge hardware |
+
+### **Full Stack & Backend**
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **[Analytics Dashboard](https://github.com/jaaydeep/analytics-dashboard)** | Real-time data visualization for 1000+ concurrent users | React • D3.js • WebSockets |
+| **[Microservices Framework](https://github.com/jaaydeep/microservices-kit)** | Scalable FastAPI starter with auth, caching, monitoring | FastAPI • Redis • PostgreSQL |
+| **[API Gateway](https://github.com/jaaydeep/api-gateway)** | Request routing, rate limiting, JWT auth at scale | Python • Nginx • Kubernetes |
 
 ---
 
-<!-- GITHUB STATS -->
-## GitHub Analytics
+<br/>
+
+## **📈 Impact by Numbers**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaaydeep&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00d9ff&icon_color=00d9ff&border_radius=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaaydeep&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&text_color=e0e7ff&title_color=00d9ff&icon_color=00d9ff&border_radius=15&card_width=400)
 
-![Streak Stats](https://streak-stats.demolab.com?user=jaaydeep&theme=dark&hide_border=true&background=0d1117)
+![Contribution Streak](https://streak-stats.demolab.com?user=jaaydeep&theme=nightowl&hide_border=true&background=0d1117&ring=00d9ff&currStreakNum=e0e7ff&fire=00d9ff&dates=a0aec0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaaydeep&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00d9ff&border_radius=10)
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=jaaydeep&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&text_color=e0e7ff&title_color=00d9ff&border_radius=15&card_width=400)
 
 </div>
 
 ---
 
-<!-- CURRENT FOCUS -->
-## Current Focus
+<br/>
 
-```yaml
-Primary:
-  - Deep Learning: Optimizing transformer architectures
-  - Production ML: Model serving, inference optimization
-  - System Design: Building scalable ML pipelines
+## **🎯 Current Focus**
 
-Secondary:
-  - Open Source: Contributing to PyTorch ecosystem
-  - Technical Writing: ML systems & architecture deep-dives
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Timeline: Q2 2025 - Shipping enterprise ML products
+📍 PRIMARY OBJECTIVES (Q2 2025)
+
+  ✦ Transformer Architecture Optimization
+    └─ Reducing inference latency for real-time ML inference
+    
+  ✦ Production ML Systems Design
+    └─ Model serving, monitoring, A/B testing frameworks
+    
+  ✦ Scalable Computer Vision Pipelines
+    └─ Distributed processing, edge deployment strategies
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📍 SECONDARY INITIATIVES
+
+  ✦ Open Source Contribution
+    └─ PyTorch ecosystem, computer vision libraries
+    
+  ✦ Technical Writing
+    └─ Deep-dives on ML systems & architecture patterns
+    
+  ✦ Community Building
+    └─ Mentoring developers in AI/ML space
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
-<!-- PHILOSOPHY -->
-## Philosophy
+<br/>
 
-> *"The best code is the one that solves real problems with clarity and grace. Excellence isn't about knowing everything—it's about knowing what matters and executing with precision."*
-
-**My approach:**
-- Problem-first thinking before solution
-- Depth over breadth in technical mastery
-- Building for scale from day one
-- Documentation as first-class code
-
----
-
-<!-- CONNECT SECTION -->
-## Let's Connect
+## **💡 My Philosophy**
 
 <div align="center">
 
-I'm always interested in conversations about:
-- Challenging technical problems
-- AI infrastructure and scaling
-- Open source contributions
-- Technical mentorship
+> ### *"Excellence is not about perfection. It's about solving the right problem, in the right way, at the right scale."*
 
-**Get in Touch:**
+**Core Principles:**
 
-[![Email](https://img.shields.io/badge/Email-jaaydeep@email.com-EA4335?style=flat-square&logo=gmail)](mailto:jaaydeep@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/jaaydeep--prajapati-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jaaydeep-prajapati)
-[![GitHub](https://img.shields.io/badge/GitHub-@jaaydeep-181717?style=flat-square&logo=github)](https://github.com/jaaydeep)
-[![Twitter](https://img.shields.io/badge/Twitter-@jaaydeep__codes-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/jaaydeep_codes)
+🔹 **Problem-first thinking** — Understand constraints before building solutions  
+🔹 **Depth over breadth** — Master fundamentals, not just frameworks  
+🔹 **Production-ready code** — Every line written for scale and clarity  
+🔹 **Continuous learning** — The field evolves; so do I  
 
 </div>
 
 ---
 
-<!-- FOOTER -->
+<br/>
+
+## **🚀 Let's Build Together**
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waveInverted&color=gradient&height=100&section=footer" width="100%"/>
+I'm always interested in:
+
+✨ **Challenging technical problems** in AI/ML  
+✨ **Production system design** at scale  
+✨ **Open source collaboration** on impactful projects  
+✨ **Technical mentorship** for aspiring engineers  
+
+**Reach out if you want to discuss:**
+- Computer Vision in production
+- ML infrastructure design
+- System architecture at scale
+- Your next big project
+
+</div>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-jaaydeep.prajapati@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jaaydeep.prajapati@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaaydeep--prajapati-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaaydeep-prajapati)
+[![GitHub](https://img.shields.io/badge/GitHub-jaaydeep-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jaaydeep)
+[![Twitter](https://img.shields.io/badge/Twitter-@jaaydeep__codes-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/jaaydeep_codes)
+[![Blog](https://img.shields.io/badge/Blog-Read_Essays-FF6B6B?style=flat-square&logo=substack&logoColor=white)](https://blog.jaaydeep.dev)
+
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waveInverted&color=gradient&height=120&section=footer&text=Building%20the%20Future&fontSize=32&fontColor=00D9FF&animation=fadeIn)
 
 <p>
   <sub>
-    <strong>Jaaydeep Prajapati</strong> · AI Engineer · Full Stack Developer<br/>
-    Building the future, one algorithm at a time
+    <strong>Jaaydeep Prajapati</strong> — AI Engineer • ML Specialist • Full Stack Developer<br/>
+    <em>"Every great system was once just an idea."</em>
   </sub>
 </p>
 
