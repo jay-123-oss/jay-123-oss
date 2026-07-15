@@ -1,5 +1,5 @@
 
-readme_content = """<div align="center">
+readme_v2 = """<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:00d9ff,100:ff006e&height=200&section=header&text=JAAYDEEP%20PRAJAPATI&fontSize=70&fontColor=ffffff&animation=fadeIn&fontWeight=900&fontAlignY=40&desc=AI%20Engineer%20%7C%20ML%20Architect%20%7C%20Deep%20Learning&descSize=18&descAlignY=65&descColor=00d9ff"/>
 
@@ -18,110 +18,164 @@ readme_content = """<div align="center">
 
 ---
 
-## 🧠 About
+<br/>
 
-AI Engineer & Deep Learning Architect specializing in **Computer Vision**, **Production ML Pipelines**, and **Enterprise AI Architecture**. Currently building AI-powered solutions at **Web Setu** while pursuing **B.Tech in Computer Science**.
+## 🧠 The Architect
 
-> *"The difference between a good engineer and a great one? The ability to see three steps ahead and build for scale from day one."*
+```
+┌──────────────────────────────────────────────────────────────┐
+│  Name        : Jaaydeep Prajapati                            │
+│  Role        : AI Engineer & Deep Learning Architect         │
+│  Focus       : Computer Vision · Production ML · Cloud AI    │
+│  Current     : Building AI at Web Setu | B.Tech CSE          │
+│  Philosophy  : "Build for scale from day one."               │
+└──────────────────────────────────────────────────────────────┘
+```
 
----
+> I architect intelligent systems that operate at the edge of what's possible — from edge devices to enterprise datacenters.
 
-## 🔐 Featured Project: TRINETRA
-
-**Neural-Powered Security Intelligence System** — Next-gen computer vision security using cutting-edge deep learning.
-
-| Metric | Performance |
-|--------|-------------|
-| **Detection Accuracy** | 94% |
-| **Latency** | <50ms per frame |
-| **Concurrent Streams** | 8+ |
-| **Hardware** | Jetson Nano → RTX 4090 |
-| **Live Deployments** | 12+ Facilities |
-
-**Stack:** Python · PyTorch · YOLO v8 · FastAPI · OpenCV · Docker · AWS
-
-[📖 Article](https://blog.jaaydeep.dev/trinetra) · [🔗 Repo](https://github.com/jaaydeep/TRINETRA)
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+<br/>
 
-**Languages**  
-![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript)
+## 🔐 Signature Build: TRINETRA
 
-**AI/ML**  
-![PyTorch](https://skillicons.dev/icons?i=pytorch) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![OpenCV](https://skillicons.dev/icons?i=opencv)
+```
+    ╔══════════════════════════════════════════════════════════╗
+    ║           TRINETRA — Neural Security Intelligence        ║
+    ╠══════════════════════════════════════════════════════════╣
+    ║                                                          ║
+    ║   📹 Input          🧠 Core              📊 Output       ║
+    ║   ├─ Multi-stream   ├─ YOLO v8           ├─ Alerts     ║
+    ║   ├─ Preprocessing  ├─ Custom CNN         ├─ Logs       ║
+    ║   └─ Edge Opt.      └─ Kalman Tracking    └─ API        ║
+    ║                                                          ║
+    ║   Accuracy: 94%    Latency: <50ms    Streams: 8+       ║
+    ║   Hardware: Jetson Nano → RTX 4090                     ║
+    ║   Live: 12+ Facilities  |  Production since Q3 2024      ║
+    ║                                                          ║
+    ╚══════════════════════════════════════════════════════════╝
+```
 
-**Backend**  
-![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Flask](https://skillicons.dev/icons?i=flask) ![Node.js](https://skillicons.dev/icons?i=nodejs)
+**Stack:** `Python` · `PyTorch` · `YOLO v8` · `FastAPI` · `OpenCV` · `Docker` · `AWS`
 
-**Frontend**  
-![React](https://skillicons.dev/icons?i=react) ![Vue.js](https://skillicons.dev/icons?i=vue) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
+[📖 Deep Dive](https://blog.jaaydeep.dev/trinetra) · [🔗 Repository](https://github.com/jaaydeep/TRINETRA)
 
-**Cloud & DevOps**  
-![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Redis](https://skillicons.dev/icons?i=redis) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-**Tools**  
-![Git](https://skillicons.dev/icons?i=git) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Jupyter](https://skillicons.dev/icons?i=jupyter) ![Linux](https://skillicons.dev/icons?i=linux)
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+<br/>
+
+## ⚡ Tech Arsenal
+
+```
+Languages          AI / ML              Backend              Frontend
+─────────          ───────              ───────              ─────────
+Python  ████████   PyTorch   ████████   FastAPI   ████████   React      ██████
+JS/TS   ██████     TensorFlow ██████    Flask     ██████     Vue.js     █████
+                    OpenCV    ████████   Node.js   ██████     Tailwind   ██████
+
+Cloud & DevOps     Data                 Tools
+──────────────     ────                 ─────
+AWS      ████████  PostgreSQL ██████    Git      ████████
+Docker   ████████  Redis      ██████    VS Code  ████████
+MongoDB  ██████    ──                   Jupyter  ██████
+                                              Linux    ██████
+```
+
+<br/>
+
+---
+
+<br/>
+
+## 📊 Impact
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaaydeep&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&text_color=e0e7ff&title_color=00d9ff&icon_color=00d9ff&border_radius=12&card_width=420" height="165"/>
 <img src="https://streak-stats.demolab.com?user=jaaydeep&theme=nightowl&hide_border=true&background=0d1117&ring=00d9ff&currStreakNum=e0e7ff&fire=FF006E&dates=8338EC&border_radius=12" height="165"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaaydeep&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&text_color=e0e7ff&title_color=00d9ff&border_radius=12&card_width=420" height="165"/>
 
 </div>
 
+<br/>
+
 ---
 
-## 🌟 Featured Work
+<br/>
 
-| Project | Description | Links |
+## 🚀 Featured Work
+
+| Project | What It Does | Stack |
 |---------|-------------|-------|
-| **Neural Enhancement Engine** | Super-resolution GANs for legacy video — 40% clarity improvement, real-time processing | [Repo](https://github.com/jaaydeep/neural-enhancement) |
-| **Anomaly Detection NN** | LSTM time-series analysis with 99.2% precision for IoT industrial monitoring | [Repo](https://github.com/jaaydeep/anomaly-detection) |
-| **Real-Time Object Tracking** | Kalman filter + Deep SORT at 60fps edge performance | [Repo](https://github.com/jaaydeep/object-tracking) |
-| **Analytics Dashboard Pro** | Real-time visualization system supporting 1000+ concurrent users | [Repo](https://github.com/jaaydeep/analytics-dashboard) |
-| **Microservices Framework** | Production-grade FastAPI kit with JWT, Redis, PostgreSQL | [Repo](https://github.com/jaaydeep/microservices-kit) |
+| **Neural Enhancement Engine** | Super-resolution GANs — 40% clarity boost, real-time | `PyTorch` `OpenCV` `FastAPI` |
+| **Anomaly Detection NN** | LSTM time-series — 99.2% precision for IoT monitoring | `TensorFlow` `Python` `Docker` |
+| **Real-Time Object Tracking** | Kalman + Deep SORT at 60fps on edge | `PyTorch` `OpenCV` `ONNX` |
+| **Analytics Dashboard Pro** | 1000+ concurrent users, WebSocket streaming | `React` `FastAPI` `Redis` |
+| **Microservices Framework** | Production FastAPI kit with JWT, caching, DB optimization | `FastAPI` `PostgreSQL` `Docker` |
+
+<br/>
 
 ---
 
-## 🎯 2025 Focus
+<br/>
 
-- ⚡ Transformer Architecture Optimization (60% latency reduction)
-- 🏗️ Production ML Systems Engineering (model serving, monitoring, A/B testing)
-- 🖼️ Scalable Computer Vision Pipelines (distributed processing, edge deployment)
-- 🌱 PyTorch ecosystem open-source contributions
-- ✍️ Technical writing on systems & architecture
+## 🎯 2025 Roadmap
 
----
+```
+Q2 2025  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+         │  ⚡ Transformer Optimization      →  60% less latency
+         │  🏗️ Production ML Systems       →  Serving + Monitoring
+         │  🖼️ Scalable CV Pipelines       →  Distributed + Edge
+         │  🌱 PyTorch Open Source         →  Ecosystem contributions
+         │  ✍️  Technical Writing           →  Systems & Architecture
+         └─────────────────────────────────────────────────────────
+```
 
-## 💡 Philosophy
-
-| Principle | Impact |
-|-----------|--------|
-| **Problem-First** | Prevents wasted effort |
-| **Depth Over Breadth** | Sustainable expertise |
-| **Production Mindset** | Zero technical debt |
-| **Continuous Evolution** | Always ahead of curve |
-| **Code as Communication** | Easy maintenance |
+<br/>
 
 ---
 
-## 📬 Connect
+<br/>
 
-- 📧 [jaaydeep.prajapati@gmail.com](mailto:jaaydeep.prajapati@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/jaaydeep-prajapati)
-- 🐦 [Twitter](https://twitter.com/jaaydeep_codes)
-- 🌐 [Portfolio](https://jaaydeep.dev)
-- 📖 [Blog](https://blog.jaaydeep.dev)
+## 💡 Principles
+
+```
+┌─────────────────┬────────────────────────────────────┬───────────────┐
+│   Principle     │   Definition                       │   Impact        │
+├─────────────────┼────────────────────────────────────┼───────────────┤
+│ Problem-First   │ Analyze deeply before any code     │ Zero waste    │
+│ Depth > Breadth │ Master fundamentals, not trends    │ Sustainable   │
+│ Production Mind   │ Every line scales from day one     │ No debt       │
+│ Continuous Evol.  │ Field changes, so do I             │ Always ahead  │
+│ Code = Comm.      │ Write for humans first             │ Easy maintain │
+└─────────────────┴────────────────────────────────────┴───────────────┘
+```
+
+<br/>
+
+---
+
+<br/>
+
+## 📬 Let's Build
+
+```
+📧  jaaydeep.prajapati@gmail.com
+💼  linkedin.com/in/jaaydeep-prajapati
+🐦  twitter.com/jaaydeep_codes
+🌐  jaaydeep.dev
+📖  blog.jaaydeep.dev
+```
+
+<br/>
 
 ---
 
@@ -143,8 +197,8 @@ AI Engineer & Deep Learning Architect specializing in **Computer Vision**, **Pro
 """
 
 with open("/mnt/agents/output/README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
+    f.write(readme_v2)
 
-print("README.md saved successfully!")
-print(f"Total lines: {len(readme_content.splitlines())}")
-print(f"Total characters: {len(readme_content)}")
+print("✅ README.md v2 saved!")
+print(f"📏 Total lines: {len(readme_v2.splitlines())}")
+print(f"🔤 Total characters: {len(readme_v2)}")
