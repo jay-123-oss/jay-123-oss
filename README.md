@@ -1,388 +1,150 @@
-![](https://capsule-render.vercel.app/api?type=vape&color=0:ff006e,100:8338ec&height=350&section=header&text=JAAYDEEP%20PRAJAPATI&fontSize=85&fontColor=ffffff&animation=fadeIn&fontWeight=900&fontAlignY=55)
 
-<div align="center">
+readme_content = """<div align="center">
 
-# 🌌 **ARCHITECTING INTELLIGENCE**
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=26&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=120&lines=AI+Engineer+%26+Deep+Learning+Architect;Building+Neural+Systems+at+Scale;Computer+Vision+%7C+Production+ML+%7C+Cloud;Transforming+Ideas+into+Intelligent+Reality" alt="Typing SVG" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ **ELITE DEVELOPER TIER** ✨
-
-</div>
-
-<div align="center">
-
-[![🌐 Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-00D9FF?style=for-the-badge&logo=globe&logoColor=white&labelColor=0a0e27&colorA=0a0e27&colorB=00D9FF)](https://jaaydeep.dev)
-[![💼 LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27&colorA=0a0e27&colorB=0A66C2)](https://linkedin.com/in/jaaydeep-prajapati)
-[![🐦 Twitter](https://img.shields.io/badge/🐦%20Twitter-Follow-00acee?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0a0e27&colorA=0a0e27&colorB=00acee)](https://twitter.com/jaaydeep_codes)
-[![📧 Email](https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27&colorA=0a0e27&colorB=EA4335)](mailto:jaaydeep.prajapati@gmail.com)
-[![🔗 GitHub](https://img.shields.io/badge/🔗%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27&colorA=0a0e27&colorB=181717)](https://github.com/jaaydeep)
-
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:00d9ff,100:ff006e&height=200&section=header&text=JAAYDEEP%20PRAJAPATI&fontSize=70&fontColor=ffffff&animation=fadeIn&fontWeight=900&fontAlignY=40&desc=AI%20Engineer%20%7C%20ML%20Architect%20%7C%20Deep%20Learning&descSize=18&descAlignY=65&descColor=00d9ff"/>
 
 <br/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Neural+Systems+at+Scale;Computer+Vision+%7C+Production+ML+%7C+Cloud;Transforming+Ideas+into+Intelligent+Reality" alt="Typing SVG" />
 
-## 🎯 **ABOUT THE ARCHITECT**
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-jaaydeep.dev-00D9FF?style=flat-square&logo=globe&logoColor=white)](https://jaaydeep.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaaydeep-prajapati)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jaaydeep_codes)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jaaydeep.prajapati@gmail.com)
 
 </div>
 
-<div align="center">
+---
 
-I don't just write code—**I architect intelligent systems** that operate at the edge of what's possible.
+## 🧠 About
 
-Specializing in **Computer Vision**, **Deep Learning Pipelines**, and **Enterprise ML Architecture**. Currently building AI-powered solutions at **Web Setu** while pursuing **B.Tech in Computer Science**.
-
-**What Sets Me Apart:**
-- 🧠 Deep expertise in production-grade ML systems
-- ⚡ Obsession with performance optimization
-- 🏗️ Architectural thinking at scale
-- 📚 Technical writing & knowledge sharing
-- 🔬 Research-backed engineering
+AI Engineer & Deep Learning Architect specializing in **Computer Vision**, **Production ML Pipelines**, and **Enterprise AI Architecture**. Currently building AI-powered solutions at **Web Setu** while pursuing **B.Tech in Computer Science**.
 
 > *"The difference between a good engineer and a great one? The ability to see three steps ahead and build for scale from day one."*
 
-</div>
+---
+
+## 🔐 Featured Project: TRINETRA
+
+**Neural-Powered Security Intelligence System** — Next-gen computer vision security using cutting-edge deep learning.
+
+| Metric | Performance |
+|--------|-------------|
+| **Detection Accuracy** | 94% |
+| **Latency** | <50ms per frame |
+| **Concurrent Streams** | 8+ |
+| **Hardware** | Jetson Nano → RTX 4090 |
+| **Live Deployments** | 12+ Facilities |
+
+**Stack:** Python · PyTorch · YOLO v8 · FastAPI · OpenCV · Docker · AWS
+
+[📖 Article](https://blog.jaaydeep.dev/trinetra) · [🔗 Repo](https://github.com/jaaydeep/TRINETRA)
 
 ---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript)
+
+**AI/ML**  
+![PyTorch](https://skillicons.dev/icons?i=pytorch) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![OpenCV](https://skillicons.dev/icons?i=opencv)
+
+**Backend**  
+![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Flask](https://skillicons.dev/icons?i=flask) ![Node.js](https://skillicons.dev/icons?i=nodejs)
+
+**Frontend**  
+![React](https://skillicons.dev/icons?i=react) ![Vue.js](https://skillicons.dev/icons?i=vue) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+**Cloud & DevOps**  
+![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Redis](https://skillicons.dev/icons?i=redis) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+**Tools**  
+![Git](https://skillicons.dev/icons?i=git) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Jupyter](https://skillicons.dev/icons?i=jupyter) ![Linux](https://skillicons.dev/icons?i=linux)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jaaydeep&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&text_color=e0e7ff&title_color=00d9ff&icon_color=00d9ff&border_radius=12&card_width=420" height="165"/>
+<img src="https://streak-stats.demolab.com?user=jaaydeep&theme=nightowl&hide_border=true&background=0d1117&ring=00d9ff&currStreakNum=e0e7ff&fire=FF006E&dates=8338EC&border_radius=12" height="165"/>
 
 <br/>
 
-<div align="center">
-
-## ⚡ **SIGNATURE MASTERPIECE**
-
-</div>
-
-<div align="center">
-
-### 🔐 **TRINETRA**
-### *Neural-Powered Security Intelligence System*
-
-<img src="https://img.shields.io/badge/Status-Production%20Ready-00D9FF?style=for-the-badge&logo=checkmark&logoColor=white" />
-<img src="https://img.shields.io/badge/Accuracy-94%25-FF006E?style=for-the-badge&logo=target&logoColor=white" />
-<img src="https://img.shields.io/badge/Speed-50ms%20Frame-8338EC?style=for-the-badge&logo=zap&logoColor=white" />
-
-</div>
-
-**Next-generation computer vision security using cutting-edge deep learning algorithms.**
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│                    TRINETRA ARCHITECTURE                      │
-├──────────────────────────────────────────────────────────────┤
-│                                                                │
-│  📹 INPUT PIPELINE          🧠 PROCESSING CORE    📊 OUTPUT  │
-│  ├─ Multi-stream ingestion  ├─ YOLO v8 Inference │          │
-│  ├─ Frame preprocessing     ├─ Custom CNN        ├─ Alerts  │
-│  └─ Edge optimization       └─ Kalman Tracking   ├─ Logs    │
-│                                                   └─ API      │
-└──────────────────────────────────────────────────────────────┘
-```
-
-| 🎯 Metric | 📈 Performance | 🏆 Impact |
-|-----------|----------------|-----------|
-| **Detection Accuracy** | 94% | Real-world validated |
-| **Latency (Per Frame)** | <50ms | Edge-device optimized |
-| **Concurrent Streams** | 8+ | Enterprise-grade |
-| **Hardware Support** | Jetson Nano→RTX 4090 | Embedded to datacenter |
-| **Architecture** | YOLO v8 + Custom CNN | 300+ hours R&D |
-| **Deployment Status** | 12+ Live Facilities | Production since Q3 2024 |
-
-**Tech Powerhouse:**
-![Python](https://skillicons.dev/icons?i=python)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
-![Docker](https://skillicons.dev/icons?i=docker)
-![AWS](https://skillicons.dev/icons?i=aws)
-
-[📖 **Deep Dive Article**](https://blog.jaaydeep.dev/trinetra) | [🔗 **Repository**](https://github.com/jaaydeep/TRINETRA) | [🎥 **Demo Video**](#)
-
----
-
-<br/>
-
-<div align="center">
-
-## 🔬 **TECHNICAL ARSENAL**
-
-</div>
-
-<div align="center">
-
-### 🐍 **Core Languages**
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-
-### 🚀 **Backend & APIs**
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Flask](https://skillicons.dev/icons?i=flask)
-![Django](https://skillicons.dev/icons?i=django)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-
-### 🧠 **AI/ML Frameworks**
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
-
-### 🎨 **Frontend Stack**
-![React](https://skillicons.dev/icons?i=react)
-![Vue.js](https://skillicons.dev/icons?i=vue)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-### ☁️ **Cloud & DevOps**
-![AWS](https://skillicons.dev/icons?i=aws)
-![Docker](https://skillicons.dev/icons?i=docker)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Redis](https://skillicons.dev/icons?i=redis)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-### 🛠️ **Professional Tools**
-![Git](https://skillicons.dev/icons?i=git)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Jupyter](https://skillicons.dev/icons?i=jupyter)
-![Linux](https://skillicons.dev/icons?i=linux)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaaydeep&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&text_color=e0e7ff&title_color=00d9ff&border_radius=12&card_width=420" height="165"/>
 
 </div>
 
 ---
 
-<br/>
+## 🌟 Featured Work
 
-<div align="center">
-
-## 📊 **IMPACT METRICS**
-
-</div>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaaydeep&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&text_color=e0e7ff&title_color=00d9ff&icon_color=00d9ff&border_radius=20&card_width=500&hide=contribs)
-
-![Streak Stats](https://streak-stats.demolab.com?user=jaaydeep&theme=nightowl&hide_border=true&background=0d1117&ring=00d9ff&currStreakNum=e0e7ff&fire=FF006E&dates=8338EC&border_radius=20)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaaydeep&layout=donut-vertical&theme=nightowl&hide_border=true&bg_color=0d1117&text_color=e0e7ff&title_color=00d9ff&border_radius=20&card_width=500)
-
-</div>
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Neural Enhancement Engine** | Super-resolution GANs for legacy video — 40% clarity improvement, real-time processing | [Repo](https://github.com/jaaydeep/neural-enhancement) |
+| **Anomaly Detection NN** | LSTM time-series analysis with 99.2% precision for IoT industrial monitoring | [Repo](https://github.com/jaaydeep/anomaly-detection) |
+| **Real-Time Object Tracking** | Kalman filter + Deep SORT at 60fps edge performance | [Repo](https://github.com/jaaydeep/object-tracking) |
+| **Analytics Dashboard Pro** | Real-time visualization system supporting 1000+ concurrent users | [Repo](https://github.com/jaaydeep/analytics-dashboard) |
+| **Microservices Framework** | Production-grade FastAPI kit with JWT, Redis, PostgreSQL | [Repo](https://github.com/jaaydeep/microservices-kit) |
 
 ---
 
-<br/>
+## 🎯 2025 Focus
 
-<div align="center">
-
-## 🌟 **FEATURED MASTERWORKS**
-
-</div>
-
-### **🤖 Advanced AI & Computer Vision**
-
-```
-┌─ NEURAL ENHANCEMENT ENGINE
-│  └─ Super-resolution GANs for legacy video
-│     • 40% clarity improvement
-│     • Real-time processing
-│     • Enterprise deployment
-│
-├─ ANOMALY DETECTION NEURAL NETWORK
-│  └─ LSTM time-series analysis
-│     • 99.2% precision rate
-│     • IoT industrial monitoring
-│     • Deployed in production
-│
-└─ REAL-TIME MULTI-OBJECT TRACKING
-   └─ Kalman filter + Deep SORT
-      • 60fps edge performance
-      • Zero-crossing detection
-      • Crowd analytics
-```
-
-**[→ Neural Enhancement](https://github.com/jaaydeep/neural-enhancement) | [→ Anomaly Detection](https://github.com/jaaydeep/anomaly-detection) | [→ Object Tracking](https://github.com/jaaydeep/object-tracking)**
+- ⚡ Transformer Architecture Optimization (60% latency reduction)
+- 🏗️ Production ML Systems Engineering (model serving, monitoring, A/B testing)
+- 🖼️ Scalable Computer Vision Pipelines (distributed processing, edge deployment)
+- 🌱 PyTorch ecosystem open-source contributions
+- ✍️ Technical writing on systems & architecture
 
 ---
 
-### **🌐 Full-Stack & Architecture**
+## 💡 Philosophy
 
-```
-┌─ ANALYTICS DASHBOARD PRO
-│  └─ Real-time visualization system
-│     • 1000+ concurrent users
-│     • WebSocket streaming
-│     • Advanced charting
-│
-├─ MICROSERVICES FRAMEWORK
-│  └─ Production-grade FastAPI kit
-│     • JWT authentication
-│     • Redis caching layer
-│     • PostgreSQL optimization
-│
-└─ API GATEWAY ORCHESTRATION
-   └─ Enterprise request routing
-      • Rate limiting
-      • Load balancing
-      • Kubernetes-ready
-```
-
-**[→ Dashboard Suite](https://github.com/jaaydeep/analytics-dashboard) | [→ Microservices Kit](https://github.com/jaaydeep/microservices-kit) | [→ API Gateway](https://github.com/jaaydeep/api-gateway)**
+| Principle | Impact |
+|-----------|--------|
+| **Problem-First** | Prevents wasted effort |
+| **Depth Over Breadth** | Sustainable expertise |
+| **Production Mindset** | Zero technical debt |
+| **Continuous Evolution** | Always ahead of curve |
+| **Code as Communication** | Easy maintenance |
 
 ---
 
-<br/>
+## 📬 Connect
 
-<div align="center">
-
-## 🎯 **STRATEGIC ROADMAP 2025**
-
-</div>
-
-```yaml
-╔════════════════════════════════════════════════════════════════╗
-║                    Q2 2025 OBJECTIVES                         ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║  🎯 TIER 1: CORE FOCUS                                       ║
-║  ├─ Transformer Architecture Optimization                     ║
-║  │  └─ Reducing latency by 60%                               ║
-║  │                                                            ║
-║  ├─ Production ML Systems Engineering                        ║
-║  │  └─ Model serving, monitoring, A/B testing               ║
-║  │                                                            ║
-║  └─ Scalable Computer Vision Pipelines                      ║
-║     └─ Distributed processing, edge deployment              ║
-║                                                                ║
-╠════════════════════════════════════════════════════════════════╣
-║  🎯 TIER 2: SECONDARY INITIATIVES                            ║
-║  ├─ Open Source: PyTorch ecosystem contributions            ║
-║  ├─ Technical Writing: Systems & architecture deep-dives    ║
-║  └─ Community: Mentoring next-gen ML engineers              ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
+- 📧 [jaaydeep.prajapati@gmail.com](mailto:jaaydeep.prajapati@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/jaaydeep-prajapati)
+- 🐦 [Twitter](https://twitter.com/jaaydeep_codes)
+- 🌐 [Portfolio](https://jaaydeep.dev)
+- 📖 [Blog](https://blog.jaaydeep.dev)
 
 ---
-
-<br/>
-
-<div align="center">
-
-## 💡 **ENGINEERING PHILOSOPHY**
-
-</div>
-
-<div align="center">
-
-> ### *"The most elegant code solves the hardest problems with deceptive simplicity."*
-
-**Core Principles I Live By:**
-
-</div>
-
-| 🔹 Principle | 📝 Definition | 💪 Impact |
-|------------|-------------|---------|
-| **Problem-First** | Deep analysis before any code | Prevents wasted effort |
-| **Depth Over Breadth** | Master fundamentals, not trends | Sustainable expertise |
-| **Production Mindset** | Every line scales from day one | Zero technical debt |
-| **Continuous Evolution** | Field changes, so do I | Always ahead of curve |
-| **Code as Communication** | Write for humans first | Easy maintenance & onboarding |
-
----
-
-<br/>
-
-<div align="center">
-
-## 🚀 **LET'S BUILD THE FUTURE**
-
-</div>
-
-<div align="center">
-
-### 🎪 **Collaboration Opportunities**
-
-I thrive when solving:
-
-✨ **Complex AI/ML problems** at production scale  
-✨ **System architecture challenges** for enterprises  
-✨ **Open source projects** with real impact  
-✨ **Technical mentorship** for aspiring engineers  
-
-**Let's discuss:**
-- 🔬 Computer Vision in production
-- 🏗️ ML infrastructure design  
-- 📈 System architecture at 100k+ scale
-- 🌐 Your next ambitious project
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
-### 📬 **CONNECT WITH ME**
-
-[![Email](https://img.shields.io/badge/✉️%20Email-jaaydeep.prajapati%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaaydeep.prajapati@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Jaaydeep%20Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaaydeep-prajapati)
-
-[![GitHub](https://img.shields.io/badge/🔗%20GitHub-@jaaydeep-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaaydeep)
-
-[![Twitter](https://img.shields.io/badge/🐦%20Twitter-@jaaydeep__codes-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jaaydeep_codes)
-
-[![Personal Blog](https://img.shields.io/badge/📖%20Blog-Deep%20Dives%20%26%20Essays-FF006E?style=for-the-badge&logo=substack&logoColor=white)](https://blog.jaaydeep.dev)
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-jaaydeep.dev-00D9FF?style=for-the-badge&logo=globe&logoColor=white)](https://jaaydeep.dev)
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
-### 🏆 **PROFESSIONAL RECOGNITION**
-
-</div>
 
 <div align="center">
 
 ![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-00D9FF?style=flat-square)
 ![Projects](https://img.shields.io/badge/Projects%20Shipped-15%2B-FF006E?style=flat-square)
 ![Open%20Source](https://img.shields.io/badge/Open%20Source%20Contributions-50%2B-8338EC?style=flat-square)
-![Publications](https://img.shields.io/badge/Technical%20Articles-20%2B-FFBE0B?style=flat-square)
-
-</div>
-
----
+![Articles](https://img.shields.io/badge/Technical%20Articles-20%2B-FFBE0B?style=flat-square)
 
 <br/>
 
-![](https://capsule-render.vercel.app/api?type=waveInverted&color=0:ff006e,100:8338ec&height=200&section=footer&text=Building%20Intelligent%20Systems&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=60)
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=5000&pause=1000&color=8338EC&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+ML+Architect+%7C+Full+Stack+Developer;%22Every+system+starts+as+an+idea.%22;%22Let%27s+build+something+extraordinary.%22" alt="Footer typing" />
-</a>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff006e,100:8338ec&height=120&section=footer&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
 
 **Jaaydeep Prajapati** — Architecting Intelligence  
-*Last Updated: Q2 2025 | Always Learning. Always Building.*
+*Last Updated: Q2 2025*
 
 </div>
+"""
+
+with open("/mnt/agents/output/README.md", "w", encoding="utf-8") as f:
+    f.write(readme_content)
+
+print("README.md saved successfully!")
+print(f"Total lines: {len(readme_content.splitlines())}")
+print(f"Total characters: {len(readme_content)}")
