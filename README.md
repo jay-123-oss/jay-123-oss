@@ -1,5 +1,4 @@
-
-readme_v2 = """<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:00d9ff,100:ff006e&height=200&section=header&text=JAAYDEEP%20PRAJAPATI&fontSize=70&fontColor=ffffff&animation=fadeIn&fontWeight=900&fontAlignY=40&desc=AI%20Engineer%20%7C%20ML%20Architect%20%7C%20Deep%20Learning&descSize=18&descAlignY=65&descColor=00d9ff"/>
 
