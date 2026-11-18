@@ -1,7 +1,4 @@
-
-from pathlib import Path
-
-readme_v3 = r"""<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B1A,35:151A40,65:00D9FF,100:FF006E&height=230&section=header&text=JAAYDEEP%20PRAJAPATI&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontWeight=800&fontAlignY=38&desc=AI%20ENGINEERING%20%2F%20DEEP%20LEARNING%20%2F%20SYSTEMS&descSize=17&descAlignY=62&descColor=00D9FF" width="100%"/>
 
